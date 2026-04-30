@@ -53,8 +53,9 @@
 
 ###
 
-<h2 align="center">🐍 Snake 🐍</h2>
+<h2 align="center">🐍 Snake game 🐍</h2>
 
 ###
 
 <img src="https://raw.githubusercontent.com/yosuasetiaid/yosuasetiaid/output/snake.svg" alt="Snake animation" />
+
